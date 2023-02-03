@@ -1,0 +1,11 @@
+version: 20230203d7710a309b8b9fb22bebc6d61ef24652
+downloadprefix: https://www.dropbox.com/home/EQUpdates/rof
+downloads:
+- name: dbstr_us.txt
+  md5: 3f09faea9b144b7c4c48d6b0b0c4dae1
+  date: "20230202"
+  size: 6323565
+- name: spells_us.txt
+  md5: 7fff65eeaa616828d934769c810a6ac2
+  date: "20230202"
+  size: 28107138
